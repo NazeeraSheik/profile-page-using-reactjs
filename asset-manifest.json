@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/profile-page-using-reactjs/static/css/main.a7152988.chunk.css",
+    "main.js": "/profile-page-using-reactjs/static/js/main.02f5d735.chunk.js",
+    "main.js.map": "/profile-page-using-reactjs/static/js/main.02f5d735.chunk.js.map",
+    "runtime-main.js": "/profile-page-using-reactjs/static/js/runtime-main.f2f9fb52.js",
+    "runtime-main.js.map": "/profile-page-using-reactjs/static/js/runtime-main.f2f9fb52.js.map",
+    "static/js/2.ed8e6051.chunk.js": "/profile-page-using-reactjs/static/js/2.ed8e6051.chunk.js",
+    "static/js/2.ed8e6051.chunk.js.map": "/profile-page-using-reactjs/static/js/2.ed8e6051.chunk.js.map",
+    "index.html": "/profile-page-using-reactjs/index.html",
+    "precache-manifest.deef0e861fbe40f884de987d2ca68058.js": "/profile-page-using-reactjs/precache-manifest.deef0e861fbe40f884de987d2ca68058.js",
+    "service-worker.js": "/profile-page-using-reactjs/service-worker.js",
+    "static/css/main.a7152988.chunk.css.map": "/profile-page-using-reactjs/static/css/main.a7152988.chunk.css.map",
+    "static/js/2.ed8e6051.chunk.js.LICENSE.txt": "/profile-page-using-reactjs/static/js/2.ed8e6051.chunk.js.LICENSE.txt",
+    "static/media/Snapshot.png": "/profile-page-using-reactjs/static/media/Snapshot.d0f3a706.png",
+    "static/media/blog.png": "/profile-page-using-reactjs/static/media/blog.6f5ff37a.png",
+    "static/media/bute.png": "/profile-page-using-reactjs/static/media/bute.04cb03b3.png",
+    "static/media/contactlogo.png": "/profile-page-using-reactjs/static/media/contactlogo.e38766a1.png",
+    "static/media/csslogo.png": "/profile-page-using-reactjs/static/media/csslogo.04cf122b.png",
+    "static/media/database.jpg": "/profile-page-using-reactjs/static/media/database.719fefb4.jpg",
+    "static/media/de.png": "/profile-page-using-reactjs/static/media/de.68c7fb89.png",
+    "static/media/html5logo.jpg": "/profile-page-using-reactjs/static/media/html5logo.3a431a93.jpg",
+    "static/media/javascriptimg2.png": "/profile-page-using-reactjs/static/media/javascriptimg2.184a7681.png",
+    "static/media/menu3.png": "/profile-page-using-reactjs/static/media/menu3.73f5f2b3.png",
+    "static/media/mngodbimg.png": "/profile-page-using-reactjs/static/media/mngodbimg.d261a13e.png",
+    "static/media/myprofile.jfif": "/profile-page-using-reactjs/static/media/myprofile.5c4b162c.jfif",
+    "static/media/pybot.png": "/profile-page-using-reactjs/static/media/pybot.b6e223a6.png",
+    "static/media/pythonimg.png": "/profile-page-using-reactjs/static/media/pythonimg.c290a443.png",
+    "static/media/wordpress.png": "/profile-page-using-reactjs/static/media/wordpress.fa6246e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2f9fb52.js",
+    "static/js/2.ed8e6051.chunk.js",
+    "static/css/main.a7152988.chunk.css",
+    "static/js/main.02f5d735.chunk.js"
+  ]
+}
